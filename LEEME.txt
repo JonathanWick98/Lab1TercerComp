@@ -1,0 +1,1 @@
+La base de datos debe guardarse en phpMyAdmin como sspace01
